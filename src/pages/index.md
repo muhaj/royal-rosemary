@@ -5,9 +5,7 @@ sections:
   - type: hero_section
     template: hero_section
     section_id: hero
-    title: >-
-      This is an Award Winning Agency Based in London and Focusing on Digital,
-      Web development, Identity, and Print Design.
+    title: "Branding & creative - Digital Agency Based in London\_Focusing on Digital, Web development, Identity, and Print Design."
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
