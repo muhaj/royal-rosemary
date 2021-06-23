@@ -110,7 +110,7 @@ sections:
     bg_color: light
 template: advanced
 seo:
-  title: ''
+  title: Jetnor Digital Media Agency
   description: ''
   robots: []
   extra: []
