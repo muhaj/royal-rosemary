@@ -111,7 +111,9 @@ sections:
 template: advanced
 seo:
   title: Jetnor Digital Media Agency
-  description: ''
+  description: >-
+    We provide digital production services for brands and agencies. We can help
+    you bring the most ambitious ideas to life.
   robots: []
   extra: []
   type: stackbit_page_meta
